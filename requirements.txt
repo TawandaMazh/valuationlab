@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+statsmodels
+prophet
+matplotlib
+seaborn
+jupyter
+sqlalchemy
+psycopg2-binary
+openpyxl
